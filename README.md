@@ -3,6 +3,7 @@
 ## Description
 
 - Projeto desenvolvido a partir da imersão realizada pela [Rocketseat](https://rocketseat.com.br/)
+- Link do repositório original: [next-level-week-4](https://github.com/rocketseat-education/nlw-04-reactjs)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
